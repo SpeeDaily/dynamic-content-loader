@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Learn JavaScript",
+    "description": "Comprehensive guide to JavaScript.",
+    "link": "https://example.com/learn-javascript",
+    "labels": ["JavaScript", "Programming", "Web Development"]
+  },
+  {
+    "title": "JavaScript Advanced Concepts",
+    "description": "Deep dive into advanced JavaScript topics.",
+    "link": "https://example.com/javascript-advanced",
+    "labels": ["JavaScript", "Programming"]
+  },
+  {
+    "title": "JavaScript Best Practices",
+    "description": "Learn best practices for writing JavaScript code.",
+    "link": "https://example.com/javascript-best-practices",
+    "labels": ["JavaScript", "Web Development"]
+  },
+  {
+    "title": "JavaScript Design Patterns",
+    "description": "Understand design patterns in JavaScript.",
+    "link": "https://example.com/javascript-design-patterns",
+    "labels": ["JavaScript", "Programming"]
+  },
+  {
+    "title": "JavaScript Frameworks",
+    "description": "Overview of popular JavaScript frameworks.",
+    "link": "https://example.com/javascript-frameworks",
+    "labels": ["JavaScript", "Web Development"]
+  },
+  {
+    "title": "CSS Basics",
+    "description": "Introduction to CSS for styling web pages.",
+    "link": "https://example.com/css-basics",
+    "labels": ["CSS", "Web Design", "Frontend"]
+  },
+  {
+    "title": "HTML5 Tutorial",
+    "description": "Learn the latest features of HTML5.",
+    "link": "https://example.com/html5-tutorial",
+    "labels": ["HTML", "Web Development", "Frontend"]
+  },
+  {
+    "title": "React Basics",
+    "description": "Introduction to React and its core concepts.",
+    "link": "https://example.com/react-basics",
+    "labels": ["React", "JavaScript", "Frontend"]
+  },
+  {
+    "title": "Vue.js Guide",
+    "description": "Learn Vue.js step by step.",
+    "link": "https://example.com/vue-guide",
+    "labels": ["Vue.js", "JavaScript", "Frontend"]
+  },
+  {
+    "title": "Angular for Beginners",
+    "description": "Getting started with Angular.",
+    "link": "https://example.com/angular-beginners",
+    "labels": ["Angular", "JavaScript", "Frontend"]
+  },
+  {
+    "title": "Backend Development with Node.js",
+    "description": "Learn how to build a backend with Node.js.",
+    "link": "https://example.com/nodejs-backend",
+    "labels": ["Node.js", "Backend", "JavaScript"]
+  },
+  {
+    "title": "Django for Web Development",
+    "description": "Learn web development with Django.",
+    "link": "https://example.com/django-web",
+    "labels": ["Django", "Python", "Backend"]
+  },
+  {
+    "title": "Flask Tutorial",
+    "description": "Build web applications with Flask.",
+    "link": "https://example.com/flask-tutorial",
+    "labels": ["Flask", "Python", "Backend"]
+  },
+  {
+    "title": "SQL Basics",
+    "description": "Introduction to SQL and database management.",
+    "link": "https://example.com/sql-basics",
+    "labels": ["SQL", "Database", "Backend"]
+  },
+  {
+    "title": "Data Structures and Algorithms",
+    "description": "Learn essential data structures and algorithms.",
+    "link": "https://example.com/data-structures-algorithms",
+    "labels": ["Data Structures", "Algorithms", "Programming"]
+  },
+  {
+    "title": "Machine Learning Basics",
+    "description": "Introduction to machine learning concepts.",
+    "link": "https://example.com/machine-learning-basics",
+    "labels": ["Machine Learning", "AI", "Python"]
+  },
+  {
+    "title": "Deep Learning with TensorFlow",
+    "description": "Learn deep learning using TensorFlow.",
+    "link": "https://example.com/deep-learning-tensorflow",
+    "labels": ["Deep Learning", "AI", "TensorFlow"]
+  },
+  {
+    "title": "Introduction to Docker",
+    "description": "Learn how to containerize applications with Docker.",
+    "link": "https://example.com/docker-introduction",
+    "labels": ["Docker", "DevOps", "Containerization"]
+  },
+  {
+    "title": "Kubernetes for Beginners",
+    "description": "Learn the basics of Kubernetes.",
+    "link": "https://example.com/kubernetes-beginners",
+    "labels": ["Kubernetes", "DevOps", "Containerization"]
+  },
+  {
+    "title": "AWS Cloud Fundamentals",
+    "description": "Introduction to AWS Cloud services.",
+    "link": "https://example.com/aws-cloud-fundamentals",
+    "labels": ["AWS", "Cloud Computing", "DevOps"]
+  },
+  {
+    "title": "Azure for Developers",
+    "description": "Get started with Azure for developers.",
+    "link": "https://example.com/azure-developers",
+    "labels": ["Azure", "Cloud Computing", "DevOps"]
+  },
+  {
+    "title": "Google Cloud Platform Guide",
+    "description": "Learn how to use Google Cloud Platform.",
+    "link": "https://example.com/gcp-guide",
+    "labels": ["GCP", "Cloud Computing", "DevOps"]
+  },
+  {
+    "title": "Introduction to Blockchain",
+    "description": "Learn the basics of blockchain technology.",
+    "link": "https://example.com/blockchain-introduction",
+    "labels": ["Blockchain", "Cryptocurrency", "Technology"]
+  },
+  {
+    "title": "Cybersecurity Essentials",
+    "description": "Learn the essentials of cybersecurity.",
+    "link": "https://example.com/cybersecurity-essentials",
+    "labels": ["Cybersecurity", "Security", "Technology"]
+  }
+]
